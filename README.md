@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Kai Arizabal
-karizabal@ucsd.edu
+Kai Arizabal and Viela Lansangan
