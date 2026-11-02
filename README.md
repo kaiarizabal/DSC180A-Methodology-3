@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Kai Arizabal
+Viela Lansangan
